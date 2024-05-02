@@ -1,1 +1,1 @@
-# Medical_Image_Screening
+Creation of a CNN for image segmentation and for domain translation. 
